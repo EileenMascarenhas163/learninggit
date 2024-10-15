@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # this is eileen
 # this is aditi
 # this is sara
@@ -7,9 +6,7 @@
 # git checkout branch_name (for switching to other branch)
 # git add --all  
 # git commit -m " commit name"
-=======
 
 
 
 
->>>>>>> origin/vedant
