@@ -1,7 +1,4 @@
-# this is eileen
-# this is aditi
-# this is sara
-# this is vedant
+
 # git branch branch_name (for creation of new branch)
 # git checkout branch_name (for switching to other branch)
 # git add --all  
